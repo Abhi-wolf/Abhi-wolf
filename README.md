@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi-wolf
+- 👋 Hi, I’m @Abhijeet
 - 👀 I’m interested in web development,android development,web3 and crypto
 - 🌱 I’m currently learning web development and DSA
 - 💞️ I’m looking to collaborate on frontend projects
