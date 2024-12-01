@@ -3,7 +3,10 @@
 
 *Passionate about building impactful solutions and contributing to the developer community.*
 
----
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhi-wolf&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
 ## 🚀 About Me
 
@@ -56,25 +59,6 @@
 
 
 ---
-
-## 🌟 My Projects
-
-### 📂 [QuickChat](https://github.com/your-username/quickchat)
-A real-time, scalable chat application enabling users to create and participate in chat rooms seamlessly.  
-🚀 **Technologies**: Next.js, Node.js, MongoDB, Redis, Kafka, Socket.IO  
-
-### 📂 [TaskMaster](https://github.com/your-username/taskmaster)
-A full-stack solution for task management, project tracking, note-taking, and expense monitoring.  
-🚀 **Technologies**: React.js, Node.js, Express.js, MongoDB, Firebase, Redis, Zustand, Tanstack Query
-
-### 📂 [WildOasis](https://github.com/your-username/wildoasis)
-A cabin booking platform that provides seamless browsing, booking, and reservation management.  
-🚀 **Technologies**: Next.js, Node.js, Supabase, Razorpay, Vercel
-
-Check out more on my [repositories page](https://github.com/Abhi-wolf?tab=repositories)!
-
----
-
 
 
 <!--Github stats Table--> 
