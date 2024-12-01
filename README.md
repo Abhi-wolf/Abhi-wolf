@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhijeet
-- 👀 I’m interested in web development,android development,web3 and crypto
-- 🌱 I’m currently learning web development and DSA
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 contact me on abhijeetkr2020@outlook.com
+- 👀 I’m interested in web development,web3 and crypto
+- 🌱 I’m currently learning full stack web development and DSA
+- 💞️ I’m actively looking to collaborate on projects
+- 📫 contact me on abhijeetkr0987@gmail.com
 
 <!---
 Abhi-wolf/Abhi-wolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
