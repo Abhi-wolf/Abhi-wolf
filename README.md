@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Next.js, Kafka, Redis, and Socket.IO**.
+- 🌱 I’m currently learning **Next.js, Kafka, Redis, and Typescript**.
 - 👨‍💻 All of my projects are available [here](https://github.com/Abhi-wolf?tab=repositories).
 - 🔭 I’m working on **QuickChat**, a real-time chat application.
 - 💬 Ask me about **full-stack development, real-time applications, and backend systems**.
